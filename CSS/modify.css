@@ -1,0 +1,59 @@
+.center {
+    text-align: center;
+}
+
+.form {
+    margin-top: 1.5%;
+}
+
+.form input {
+    font-size: 18px;
+    font-weight: bold;
+    height: 33px
+}
+
+.form textarea {
+    font-size: 18px;
+    font-weight: bold;
+    width: 370px;
+    height: 100px
+}
+
+
+.form table {
+    width: 40%;
+    background-color: rgba(0, 0, 0, 0.377);
+    margin-left: 3%;
+    margin-right: auto;
+}
+
+.form table, .form th, .form td{
+    color: white;
+    padding: 1%; 
+    font-size: 25px;
+}
+
+.form table th {
+    text-align: right;
+}
+
+.form table th td {
+    padding: 1.5% 1.5%;
+    margin: 1.5% 1.5%;
+}
+
+.form button {
+    font-family: Consolas;
+    padding: 0.5% 0.5%;
+    font-weight: bolder;
+    font-size: 17px;  
+    text-transform: uppercase;
+}
+
+.form h1 {
+    margin-left: 3%;
+    margin-right: auto;
+    color: white;
+}
+
+
